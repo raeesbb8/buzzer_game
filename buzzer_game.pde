@@ -1,4 +1,4 @@
-PImage starwars;
+ PImage starwars;
 PImage pokemon;
 PImage titan;
 PImage deathNote;
